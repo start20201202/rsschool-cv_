@@ -1,4 +1,4 @@
-# rsschool-cv_
+# rsschool-cv
 
 [Markdown & Git](https://start20201202.github.io/rsschool-cv/cv)
 
